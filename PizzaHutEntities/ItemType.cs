@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ePizzaHub.Entities
+namespace PizzaHutEntities
 {
+
+
     public class ItemType
     {
         public int Id { get; set; }

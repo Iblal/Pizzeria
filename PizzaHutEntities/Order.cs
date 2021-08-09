@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ePizzaHub.Entities
+namespace PizzaHutEntities
 {
     public class Order
     {

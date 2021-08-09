@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace ePizzaHub.Entities
+namespace PizzaHutEntities
 {
     public class User: IdentityUser<int>
     {
