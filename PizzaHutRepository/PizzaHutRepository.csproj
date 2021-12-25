@@ -13,6 +13,10 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <ProjectReference Include="..\PizzaHutEntities\PizzaHutEntities.csproj"/>
+    <ProjectReference Include="..\PizzaHutEntities\PizzaHutEntities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="SQL Scripts\" />
   </ItemGroup>
 </Project>
