@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PizzaHutEntities\PizzaHutEntities.csproj" />
+    <ProjectReference Include="..\PizzaHutRepository\PizzaHutRepository.csproj" />
   </ItemGroup>
 
 </Project>
